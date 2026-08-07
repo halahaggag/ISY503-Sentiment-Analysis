@@ -41,12 +41,5 @@ Hala Haggag
 A00142705
 hala.haggag@student.torrens.edu.au
 
-
-
-
-
-
-
-
 - Team Member 1: Name and student ID
 - Team Member 2: Name and student ID
